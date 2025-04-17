@@ -1,5 +1,9 @@
 # Hi there 👋 I'm Evgenii!
 
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/44630070/434892311-b5f0fcbe-2615-4efe-9001-d39b25c059c5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ5MDcxNDYsIm5iZiI6MTc0NDkwNjg0NiwicGF0aCI6Ii80NDYzMDA3MC80MzQ4OTIzMTEtYjVmMGZjYmUtMjYxNS00ZWZlLTkwMDEtZDM5YjI1YzA1OWM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE3VDE2MjA0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViOGYzYjJmNTAxNTY3YmMyMDMyNGRlNjZmMGI5YzI5YjdmZmQ4NDk2NWJlNjZjZGM4ZDhiMDhkMjg1YzJlNzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SUZqk9ODWTo8MZ42fMt8Qt7IgAE43fvurBQkil72Vy4" alt="Hello" width="500"/>
+</p>
+
 🚀 I'm a software developer with nearly 6 years of experience in smart contract development, auditing, and academic research. I'm passionate about building secure and efficient applications with **Soldity**, **Ethereum**, and **Angular**.  
 🎯 My focus: Web3 development, smart contract security, and building full-stack decentralized applications (dApps) that make it to production.
 
