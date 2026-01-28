@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Evgenii!
+# Hi there, I'm Evgenii
 
 I'm a software developer with nearly 6 years of experience in smart contract development, auditing, and academic research. I'm passionate about building secure and efficient applications with **Soldity**, **Ethereum**, and **Angular**.  
 My focus: Web3 development, smart contract security, and building full-stack decentralized applications (dApps) that make it to production.
@@ -28,9 +28,9 @@ My blog: https://medium.com/@zhenyazhdarkin
 
 ## Languages
 
--   🇬🇧 English — Professional Working Proficiency
--   🇫🇷 French — Fluent
--   🇷🇺 Russian — Native
+-  English — Professional Working Proficiency
+-  French — Fluent
+-  Russian — Native
 
 ---
 
